@@ -14,7 +14,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-release/main/ins
 Chú ý: Sau khi chạy xong code termux bản thì ae vào lại termux, gõ 4ghack chứ ko phải tun nha
 Video hướng dẫn chi tiết: https://youtu.be/5lSgzYYKTfA
 
-Code Termux (Code đã tối giản - Phiên bản được nâng cấp của vss.git, gõ tun để chạy. Chi tiết xem tập 1: https://youtu.be/47yaj1A45Hw)
+Code Termux (Code đã tối giản - Phiên bản được nâng cấp của vss.git, gõ tun để chạy. Chi tiết xem tập 1: https://youtu.be/47yaj1A45Hw
+và tập 2: https://youtu.be/qjf6hU9Yhs4)
 bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-tun/main/install.sh)
 Chú ý: Sau khi chạy xong code termux bản thì ae vào lại termux, gõ tun để chạy nha
 Video hướng dẫn chi tiết: https://youtu.be/47yaj1A45Hw
