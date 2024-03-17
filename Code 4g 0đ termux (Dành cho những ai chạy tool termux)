@@ -1,0 +1,11 @@
+Yêu cầu phiên bản termux: 1.1.9 trở lên, ngoài phiên bản này vui lòng tải lại phiên bản 1.1.9
+Đối với phiên bản 1.1.8 đổ xuống, cần copy code này để chạy trước đã rồi copy code 4g 0đ nha:
+termux-setup-storage && apt upgrade -y
+chạy lệnh này xong ròii mới copy code mà chạy nha, nếu hongg thì khi copy code mà chạy sẽ báo lỗi libssl.so.3 nha
+
+Code Termux (Chạy trực tiếp: Tức chỉ cần setup, setup xong là kết nối ngay,hongg cần gõ 4ghack. Khi bật lại app termux sẽ tự động kết nối):
+bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3dir/main/install.sh)
+Video hướng dẫn chi tiết cho code bản chạy trực tiếp: https://youtu.be/ot7edTcO70c
+
+©:Bản quyền code bởi kênh YouTube Hyper Networks Channel
+Đăng ký kênh: https://youtube.com/@hypernetworkschannel1
