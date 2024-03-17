@@ -9,8 +9,9 @@ Code Termux (Chạy trực tiếp: Tức chỉ cần setup, setup xong là kết
 bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3dir/main/install.sh)
 Video hướng dẫn chi tiết cho code bản chạy trực tiếp: https://youtu.be/ot7edTcO70c
 
-Code Termux (Chính: Dành cho những ai có ý định chạy tool termux):
-Bảo trì
+Code Termux (Bản dành cho những ai có ý định chạy tool termux - Chi tiết xem video: https://youtu.be/5lSgzYYKTfA):
+bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-release/main/install.sh)
+Chú ý: Sau khi chạy xong code termux bản thì ae vào lại termux, gõ 4ghack chứ ko phải tun nha
 Video hướng dẫn chi tiết: https://youtu.be/5lSgzYYKTfA
 
 Code Termux (Dự Phòng:)
