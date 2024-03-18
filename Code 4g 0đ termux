@@ -1,24 +1,10 @@
-©:Bản quyền code bởi kênh YouTube Hyper Networks Channel
-Đăng ký kênh: https://youtube.com/@hypernetworkschannel1
-Yêu cầu phiên bản termux: 1.1.9 trở lên, ngoài phiên bản này vui lòng tải lại phiên bản 1.1.9
-Đối với phiên bản 1.1.8 đổ xuống, cần copy code này để chạy trước đã rồi copy code 4g 0đ nha:
-termux-setup-storage && apt upgrade -y
-chạy lệnh này xong ròii mới copy code mà chạy nha, nếu hongg thì khi copy code mà chạy sẽ báo lỗi libssl.so.3 nha
+Mời các bạn lên kênh Youtube Hyper Networks Channel 1, bấm đăng ký kênh, ròii ấn vào xem video 4g 0đ termux, ròii kéo xuống phần mô tả để lấy link code nha:
+Link kênh:
+https://youtube.com/@hypernetworkschannel1
 
-Code Termux (Chạy trực tiếp: Tức chỉ cần setup, setup xong là kết nối ngay,hongg cần gõ 4ghack. Khi bật lại app termux sẽ tự động kết nối):
-bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3dir/main/install.sh)
-Video hướng dẫn chi tiết cho code bản chạy trực tiếp: https://youtu.be/ot7edTcO70c
 
-Code Termux (Code đã tối giản - Bản dành cho những ai có ý định chạy tool termux - Chi tiết xem tập 4: https://youtu.be/5lSgzYYKTfA):
-bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-release/main/install.sh)
-Chú ý: Sau khi chạy xong code termux bản thì ae vào lại termux, gõ 4ghack chứ ko phải tun nha
-Video hướng dẫn chi tiết: https://youtu.be/5lSgzYYKTfA
-
-Code Termux (Code đã tối giản - Phiên bản được nâng cấp của vss.git, gõ tun để chạy. Chi tiết xem tập 1: https://youtu.be/47yaj1A45Hw
-và tập 2: https://youtu.be/qjf6hU9Yhs4)
-bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-tun/main/install.sh)
-Chú ý: Sau khi chạy xong code termux bản thì ae vào lại termux, gõ tun để chạy nha
-Video hướng dẫn chi tiết: https://youtu.be/47yaj1A45Hw
+-Thay đổi vào lúc 09:59:13 - 18/03/2024
+-Lý do thay đổi: Tách riêng từng code và tối giản code
 
 Tất cả các video hướng dẫn chi tiết từ tập 1 đến tập 5:
 Tập 1: https://youtu.be/47yaj1A45Hw
