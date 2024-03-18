@@ -7,6 +7,7 @@ Code Termux (Code đã tối giản):
 bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-release/main/install.sh)
 Hoặc:
 clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-release/raw/main/v3-release.zip && unzip v3-release.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
+Các bạn copy cái nào cũng được nha.
 
 Chú ý: Sau khi chạy xong code termux bản thì ae vào lại termux, gõ 4ghack chứ ko phải tun nha
 
