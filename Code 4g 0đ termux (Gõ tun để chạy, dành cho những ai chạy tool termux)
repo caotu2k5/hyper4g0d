@@ -9,7 +9,7 @@ Hoặc:
 clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-tun/raw/main/v3-tun.zip && unzip v3-tun.zip && chmod a+x tun && chmod a+x psiphon-tunnel-core && exit
 Các bạn copy cái nào cũng được nha.
 
-Chú ý: Sau khi chạy xong code termux bản thì ae vào lại termux, gõ tun để chạy nha
+Chú ý: Sau khi chạy xong code termux ròii thì ae vào lại termux, gõ tun để chạy nha
 
 Video hướng dẫn chi tiết: 
 - Sử dụng với Hyper socks droid:
