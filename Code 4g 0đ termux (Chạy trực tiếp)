@@ -7,6 +7,7 @@ Code Termux :
 bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3dir/main/install.sh)
 Hoặc:
 clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3dir/raw/main/v3.zip && unzip v3.zip && chmod +x * && mv mod login && login
+Các bạn copy cái nào cũng được nha.
 
 Video hướng dẫn chi tiết cho code bản chạy trực tiếp: https://youtu.be/ot7edTcO70c
 
