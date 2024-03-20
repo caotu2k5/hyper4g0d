@@ -3,10 +3,10 @@ Yêu cầu phiên bản termux: 1.1.9 trở lên, ngoài phiên bản này vui l
 termux-setup-storage && apt upgrade -y
 chạy lệnh này xong ròii mới copy code mà chạy nha, nếu hongg thì khi copy code mà chạy sẽ báo lỗi libssl.so.3 nha
 
-Code Termux (Code đã tối giản):
-bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-release/main/install.sh)
+Code Termux (Dùng cho ai chạy tool termux) (gõ 4ghack để chạy) (Code đã tối giản):
+bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-4ghack/main/install.sh)
 Hoặc:
-clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-release/raw/main/v3-release.zip && unzip v3-release.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-4ghack/raw/main/v3-4ghack.zip && unzip v3-4ghack.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
 Các bạn copy cái nào cũng được nha.
 
 Chú ý: Sau khi chạy xong code termux ròii thì ae vào lại termux, gõ 4ghack chứ ko phải tun nha
