@@ -3,7 +3,7 @@ Yêu cầu phiên bản termux: 1.1.9 trở lên, ngoài phiên bản này vui l
 termux-setup-storage && apt upgrade -y
 chạy lệnh này xong ròii mới copy code mà chạy nha, nếu hongg thì khi copy code mà chạy sẽ báo lỗi libssl.so.3 nha
 
-Code Termux (Code đã tối giản):
+Code Termux (Gõ tun để chạy) (Code đã tối giản):
 bash <(curl -fsSL https://raw.githubusercontent.com/caotu2k5/v3-tun/main/install.sh)
 Hoặc:
 clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-tun/raw/main/v3-tun.zip && unzip v3-tun.zip && chmod a+x tun && chmod a+x psiphon-tunnel-core && exit
