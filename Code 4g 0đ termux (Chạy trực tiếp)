@@ -1,6 +1,3 @@
-Chú ý: Hiện tại đang không dùng do bị viettel fix, vui lòng quay lại sau.
-
-
 Yêu cầu phiên bản termux: 1.1.9 trở lên, ngoài phiên bản này vui lòng tải lại phiên bản 1.1.9
 Đối với phiên bản 1.1.8 đổ xuống, cần copy code này để chạy trước đã rồi copy code 4g 0đ nha:
 termux-setup-storage && apt upgrade -y
